@@ -1,0 +1,1 @@
+export const array = ['admin@futonmfb.com', 'dandrizzy4all@gmail.com'];
